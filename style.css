@@ -1,0 +1,27 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Alike+Angular&display=swap');
+
+h1 {
+ font-family: 'Alike Angular', serif;
+ font-size: 50px;
+}
+
+a:link{
+    color: #bab3a9;
+    background-color: transparent;
+}
+
+a:visited {
+    color: #bab3a9;
+    background-color: transparent;
+}
+
+a:hover {
+    color: #bab3a9;
+    background-color: transparent;
+}
+
+a:active {
+    color: #bab3a9;
+    background-color: transparent;
+}
